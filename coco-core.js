@@ -5,6 +5,7 @@ _defineProperty = function(obj, prop, desc) {
     return obj;
 };
 
+// :)
 
 var com = {};
 
